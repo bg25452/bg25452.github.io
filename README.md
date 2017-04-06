@@ -17,7 +17,7 @@
 使用git从[某科学的程序员](https://github.com/bg25452/bg25452.github.io)主页下载项目
 
 ``` bash
-git clone https://github.com/luoyan35714/LessOrMore.git
+git clone https://github.com/bg25452/bg25452.github.io
 ```
 
 配置
