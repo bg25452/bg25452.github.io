@@ -28,7 +28,7 @@ baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
 FB:
   comments :
     provider : disqus
-    duoshuo:
+    disqus:
         short_name : bg25452
     # facebook :
     #   appid : 123
