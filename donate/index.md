@@ -20,7 +20,7 @@ header: 打赏
 <img src="{{ '/styles/images/yuban01.jpg' | prepend: site.baseurl }}" alt="thank you very much" width="750" />
 <br>
 
->声明: 此博客空间用于分享作者个人的一些技术相关， 此网站基于[MIT开源协议](https://github.com/bg25452/bg25452.github.io/LICENSE )所有内容完全免费，请放心使用。
+>声明: 此博客空间用于分享作者个人的一些技术相关， 此网站基于[MIT开源协议](https://github.com/bg25452/bg25452.github.io/blob/master/LICENSE)所有内容完全免费，请放心使用。
 
 <hr>
 
