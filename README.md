@@ -39,9 +39,9 @@ github: github地址
 github_username: github用户名称
 FB:
   comments :
-    provider : disqus
-    disqus :
-        short_name : Disqus账户
+    provider : cloudtie
+    cloudtie :
+        short_name : cloudtie账户
 ```
 
 如何写文章

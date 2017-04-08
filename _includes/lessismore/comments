@@ -1,12 +1,8 @@
 {% if site.FB.comments.provider and page.comments != false %}
 
 {% case site.FB.comments.provider %}
-{% when "disqus" %}
-  {% include lessismore/comments-providers/disqus %}
-{% when "facebook" %}
-  {% include lessismore/comments-providers/facebook %}
-{% when "duoshuo" %}
-  {% include lessismore/comments-providers/duoshuo %}
+{% when "cloudtie" %}
+  {% include lessismore/comments-providers/cloudtie %}
 {% when "custom" %}
   {% include custom/comments %}
 {% endcase %}
