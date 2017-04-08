@@ -5,7 +5,7 @@
 + 感谢[Github](https://github.com/)提供的代码维护和发布平台
 + 感谢[Jekyll](https://jekyllrb.com/)团队做出如此优秀的产品
 + 感谢[Solar](https://github.com/mattvh/solar-theme-jekyll)的原作者[Matt Harzewski](http://www.webmaster-source.com/)
-+ 感谢luoyan35714(https://github.com/luoyan35714/LessOrMore.git)
++ 感谢luoyan35714(https://github.com/luoyan35714/LessOrMore.git)提供了一个好的博客模版
 
 
 使用
@@ -39,9 +39,7 @@ github: github地址
 github_username: github用户名称
 FB:
   comments :
-    provider : duoshuo
-    duoshuo:
-        short_name : 多说账户
+    provider : disqus
     disqus :
         short_name : Disqus账户
 ```
