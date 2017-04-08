@@ -27,11 +27,9 @@ baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
 
 FB:
   comments :
-    provider : duoshuo
+    provider : disqus
     duoshuo:
         short_name : bg25452
-    disqus :
-        short_name : freudkang
     # facebook :
     #   appid : 123
     #   num_posts: 5
