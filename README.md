@@ -98,4 +98,4 @@ jekyll server
 
 微信
 ----------------
-![微信二维码付款给黑水](/styles/images/weixin.png)
+<img src="/styles/images/weixin.png" alt="微信二维码付款给黑水" width="310" />
